@@ -1,0 +1,2 @@
+yarn add babel-plugin-transform-class-properties@6.24.1 // for class transformation
+yarn install // if any package is missed
